@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\TiendaIIIP.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\App.config" />
+  <event action="Analyze" type="Success" name="frmProducto.resx" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\frmProducto.resx" />
+  <event action="Analyze" type="Success" name="frmRestaurarContrasenia.resx" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\frmRestaurarContrasenia.resx" />
+  <event action="Analyze" type="Success" name="frmUsuario.resx" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\frmUsuario.resx" />
+  <event action="Analyze" type="Success" name="Login.resx" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\Login.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\MensajeAennviar.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\MensajeAennviar.html" />
+  <event action="Analyze" type="Success" name="MensajeAennviar.html" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\MensajeAennviar.html" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="ReporteTicket.resx" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\ReporteTicket.resx" />
+  <event action="Analyze" type="Success" name="TiendaIIIP" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP\TiendaIIIP.vbproj" />
+  <event action="Analyze" type="Success" name="TiendaIIIP" path="C:\Users\Olman\source\repos\IIP-IF325-III\TiendaIIIP\TiendaIIIP.sln" />
+</log>
